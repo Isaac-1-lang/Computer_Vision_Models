@@ -1,1 +1,3 @@
 cv_detr_env/
+config.bat
+node_modules
